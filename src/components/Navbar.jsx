@@ -23,7 +23,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className='w-9 h-9 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Amanda &nbsp;
+          <p className='text-[#4717F6] text-[18px] font-bold cursor-pointer flex'>Amanda &nbsp;
             <span className='sm:block hidden'>| Javascript
               Mastery</span></p>
         </Link>

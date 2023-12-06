@@ -5,9 +5,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#050816",
-        secondary: "#aaa6c3",
-        tertiary: "#151030",
+        primary: "#0e0b16",
+        secondary: "#4717F6",
+        tertiary: "#A239CA",
         "black-100": "#100d25",
         "black-200": "#090325",
         "white-100": "#f3f3f3",
@@ -19,9 +19,18 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/water-droplet.png')",
+        "hero-pattern": "url('/src/assets/starry.png')",
       },
     },
   },
   plugins: [],
 };
+
+// colors: {
+//   primary: "#050816",
+//   secondary: "#aaa6c3",
+//   tertiary: "#151030",
+//   "black-100": "#100d25",
+//   "black-200": "#090325",
+//   "white-100": "#f3f3f3",
+// },
